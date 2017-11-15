@@ -1,0 +1,120 @@
+*{
+   margin:0;
+    padding:0;
+}
+
+
+
+body{
+    color:dimgrey;
+    background-color:antiquewhite;
+}
+
+mark{
+    background-color:#968fc3;
+    color:dimgrey;
+    font-size:120%;
+}
+
+h1 {
+    text-align: center;
+    margin-top:80px;
+}
+
+p {
+    text-align: justify;
+}
+
+
+img{
+    padding-bottom: 10px;
+}
+
+
+/*HEAD*/
+.head {
+    background-color: #968fc3;
+    width:auto;
+    height: 171px;
+}
+#logo {
+    float:left;
+}
+
+#date {
+    text-align: center;
+    padding-top: 85px;
+    font-size:30px;
+}
+
+/*BODY*/
+
+
+#promo1{
+    width:510px;
+    height: 250px;
+    border: outset;
+    border-radius: 5px;
+    margin:80px 500px 20px 20px;
+}
+#promo2{
+    width:510px;
+    height: 200px;
+    border: outset;
+    margin:80px 20px 20px 500px;
+}
+#cadeau{
+    width:800;
+    height: 100%; 
+    border:none;
+    margin:100px 100px 40px 100px;
+}
+
+.desc {
+    padding:15px;
+    text-align: center;
+}
+.gratuit p {
+    padding:15px;
+    text-align: center;
+}
+.photo {
+    padding-top: 20px;
+    float:#;
+    width:400px;
+}
+
+.photogratuit {
+    padding:15px;
+    text-align: center;
+}
+
+
+
+/*FOOTER*/
+.reseauxsociaux {
+    width:1140px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 85%;
+   } 
+div.reseauxsociaux {
+    display: block;
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;    
+}
+div.reseauxsociaux img {
+    width: 60px;
+    height: 60px;
+}
+
+
+
+
+
+
+
+
+
