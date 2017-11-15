@@ -96,13 +96,11 @@ img{
 }
 .photo {
     padding-top: 20px;
-    float:#;
     width:400px;
 }
 
 .photogratuit {
-    padding:15px;
-    text-align: center;
+    padding:15px;  
 }
 
 
@@ -110,13 +108,11 @@ img{
 /*FOOTER*/
 .contact {
     display: block;
-    width:1140px;
+    width:auto;
     height: auto;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 20%;
-    text-align: center;
-   } 
+    } 
 .contact p {
    text-align: center; 
     margin-right: 100px;
@@ -126,7 +122,8 @@ img{
 .reseauxsociaux img {
     display: inline-block;
     width: 60px;
-    height: 60px; 
+    height: 60px;
+    float:right;
 }
 
 
