@@ -69,8 +69,8 @@ img{
 .promo1{
     width:510px;
     height: 250px;
-    border: outset;
-    border-radius: 5px;
+    border: solid;
+    border-radius: 15px 50px;
     margin:80px 500px 20px 20px;
     padding:15px;
     text-align: center;
@@ -78,15 +78,17 @@ img{
 .promo2{
     width:510px;
     height: 200px;
-    border: outset;
+    border: solid;
+    border-radius: 50px 15px;
     margin:80px 20px 20px 500px;
     padding:15px;
     text-align: center;
 }
 .gratuit{
-    width:800;
+    width:auto;
     height: 100%; 
-    border:none;
+    border: solid;
+    border-radius: 50px 50px;
     margin:100px 100px 40px 100px;
 }
 
@@ -100,7 +102,8 @@ img{
 }
 
 .photogratuit {
-    padding:15px;  
+   /* padding-left: 30px; */
+    text-align: center;
 }
 
 
@@ -121,9 +124,10 @@ img{
 
 .reseauxsociaux img {
     display: inline-block;
+    float:right;
     width: 60px;
     height: 60px;
-    float:right;
+    
 }
 
 
