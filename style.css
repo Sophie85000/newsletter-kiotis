@@ -169,8 +169,8 @@ img{
 }
 .reseauxsociaux {
     display: inline-block;
-    width: 1600px;
-    margin-left: 550px;
+    width: auto;
+    margin-left: 40%;
 }
 
 .reseauxsociaux img {
