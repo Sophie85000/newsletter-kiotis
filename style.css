@@ -65,7 +65,12 @@ img{
 
 /*BODY*/
 
-
+.creme{
+    display: inline-block;
+    height: 500px;
+    width: auto;
+    
+}
 .promo1{
     width:510px;
     height: 250px;
@@ -74,6 +79,7 @@ img{
     margin:80px 500px 20px 20px;
     padding:15px;
     text-align: center;
+    
 }
 .circle {
     margin: 20px;
@@ -83,16 +89,16 @@ img{
     text-align: center;
     border-radius: 100px;
     line-height: 50px;
-    float: right;
-    margin-right: 600px;
-    margin-top: 220px;
     font-size: 30px;
+    
 }
 .circle multi-line{
     line-height: 15px;
     height:70px;
     padding-top: 80px;
 }
+
+
 .promo2{
     width:510px;
     height: 200px;
@@ -139,10 +145,14 @@ img{
     margin-right: 100px;
     margin-bottom: 20px;
 }
+.reseauxsociaux {
+    display: inline-block;
+    width: 1600px;
+    margin-left: 850px;
+}
 
 .reseauxsociaux img {
-    display: inline-block;
-    float:right;
+    
     width: 60px;
     height: 60px;
     
